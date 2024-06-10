@@ -36,6 +36,11 @@ This Python script implements a simple food delivery system with MySQL database 
 - You can expand the system with features like order tracking, delivery status, etc.
 - Feel free to contribute and enhance the system further!
 
+# - Join [Telegram link](https://t.me/pythonbykrishss) now!
+# - Subscribe [YouTube link](https://youtube.com/@krishsscodes?si=EM7A7U_er-WGZZE_) now!
+
+
+
 ```python
 # Created by Krihna
 ## Telegram link join now (t.me/pythonbykrishss)
